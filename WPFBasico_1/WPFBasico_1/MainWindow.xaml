@@ -7,7 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="400" Width="600" >
     <Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30
-                   " Text="2DAM – Desarrollo de interfaces"></TextBlock>
-    </Grid>
+		<TextBlock HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="65"
+                   Text="2DAM – Desarrollo de interfaces" 
+				   TextWrapping="Wrap"/>
+	</Grid>
 </Window>

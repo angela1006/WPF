@@ -1,0 +1,16 @@
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\bin\Debug\WPFBasico_1.exe.config
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\bin\Debug\WPFBasico_1.exe
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\bin\Debug\WPFBasico_1.pdb
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\MainWindow.g.cs
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\App.g.cs
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1_MarkupCompile.cache
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1_MarkupCompile.lref
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\MainWindow.baml
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.g.resources
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.Properties.Resources.resources
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.csproj.GenerateResource.cache
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.exe
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.pdb
+C:\Users\1010a\Documents\WPF\WPFBasico_1\WPFBasico_1\obj\Debug\WPFBasico_1.exe.config

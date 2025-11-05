@@ -7,24 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button  VerticalAlignment="Top" HorizontalAlignment="Left" Height="25"  Width="50" Click="buttonClick">
-            <Button.Content>Boton 1</Button.Content>
-        </Button>
-        
-        <Button  VerticalAlignment="Top" HorizontalAlignment="Center" Height="25"  Width="50" Click="buttonClick">
-            <Button.Content>Boton 2</Button.Content>
-        </Button>
-        
-        <Button  VerticalAlignment="Top" HorizontalAlignment="Right" Height="25"  Width="50" Click="buttonClick">
-            <Button.Content>Boton 3</Button.Content>
-        </Button>
-        
-        <Button  VerticalAlignment="Center" HorizontalAlignment="Left" Height="25"  Width="50" Click="buttonClick">
-            <Button.Content>Boton 4</Button.Content>
-        </Button>
-
-        <Button  VerticalAlignment="Center" HorizontalAlignment="Center" Height="25"  Width="50" Click="buttonClick">
-            <Button.Content>Boton 5</Button.Content>
-        </Button>
+		<WrapPanel HorizontalAlignment="Left" VerticalAlignment="Top">
+			<Button Content="boton1"/>
+			<Button Content="boton2"/>
+			<Button Content="boton3"/>
+			<Button Content="boton4"/>
+			<Button Content="boton5"/>
+		</WrapPanel>
     </Grid>
 </Window>
