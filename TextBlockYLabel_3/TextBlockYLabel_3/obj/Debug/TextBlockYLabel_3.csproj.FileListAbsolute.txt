@@ -1,0 +1,3 @@
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_3\TextBlockYLabel_3\obj\Debug\TextBlockYLabel_3.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_3\TextBlockYLabel_3\obj\Debug\App.g.cs
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_3\TextBlockYLabel_3\obj\Debug\TextBlockYLabel_3_MarkupCompile.cache
