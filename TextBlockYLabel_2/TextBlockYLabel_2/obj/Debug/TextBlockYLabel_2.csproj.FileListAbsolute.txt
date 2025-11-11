@@ -13,3 +13,4 @@ C:\Users\1010a\Documents\WPF\TextBlockYLabel_2\TextBlockYLabel_2\obj\Debug\TextB
 C:\Users\1010a\Documents\WPF\TextBlockYLabel_2\TextBlockYLabel_2\obj\Debug\TextBlockYLabel_2.csproj.CoreCompileInputs.cache
 C:\Users\1010a\Documents\WPF\TextBlockYLabel_2\TextBlockYLabel_2\obj\Debug\TextBlockYLabel_2.exe
 C:\Users\1010a\Documents\WPF\TextBlockYLabel_2\TextBlockYLabel_2\obj\Debug\TextBlockYLabel_2.pdb
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_2\TextBlockYLabel_2\obj\Debug\TextBlockYLabel_2.exe.config

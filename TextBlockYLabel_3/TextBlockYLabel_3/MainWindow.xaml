@@ -7,18 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel x:Name="MyStackPanel"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Center"
-                    Background="LightGray"
-                    Padding="30"
-                    Button.Click="StackPanel_Button_Click_Handler">
+		<StackPanel Button.Click="StackPanel_ButtonClick" HorizontalAlignment="Center" VerticalAlignment="Center">
 
-            <Button x:Name="boton"
-                    Content="Haz click"
-                    FontSize="16"
-                    Padding="15"
-                    Click="miboton" />
+			<Button Content="Boton" Width="150" Height="40" Click="Boton_Click" />
 
         </StackPanel>
     </Grid>

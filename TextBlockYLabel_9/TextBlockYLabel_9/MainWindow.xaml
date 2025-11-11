@@ -1,0 +1,22 @@
+﻿<Window x:Class="TextBlockYLabel_9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBlockYLabel_9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="imagen.ico" Width="24" Height="24" Margin="0,0,5,0"/>
+                    <TextBlock Text="Información de contacto" 
+                               FontWeight="Bold" FontSize="16" 
+                               VerticalAlignment="Center"/>
+                </StackPanel>
+                <Button Content="¡Contactanos!" Margin="0,10,0,0" Click="ContactoBetis_Click"/>
+            </StackPanel>
+        </Label>
+    </Grid>
+</Window>

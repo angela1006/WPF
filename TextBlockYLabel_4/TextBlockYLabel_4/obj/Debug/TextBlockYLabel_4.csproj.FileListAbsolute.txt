@@ -1,0 +1,16 @@
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\bin\Debug\TextBlockYLabel_4.exe.config
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\bin\Debug\TextBlockYLabel_4.exe
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\bin\Debug\TextBlockYLabel_4.pdb
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\MainWindow.g.cs
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\App.g.cs
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4_MarkupCompile.cache
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4_MarkupCompile.lref
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\MainWindow.baml
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.g.resources
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.Properties.Resources.resources
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.csproj.GenerateResource.cache
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.exe
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.pdb
+C:\Users\1010a\Documents\WPF\TextBlockYLabel_4\TextBlockYLabel_4\obj\Debug\TextBlockYLabel_4.exe.config

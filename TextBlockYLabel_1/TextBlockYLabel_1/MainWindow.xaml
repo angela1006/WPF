@@ -13,18 +13,14 @@
                 Padding="10">
             <Button.Content>
                 <WrapPanel>
-
                     <TextBlock Text="Verde " 
                                Foreground="Green" 
                                FontSize="16"/>
-
                     <TextBlock Text="Azul " 
                                Foreground="Blue" 
                                FontSize="16"/>
-
                     <TextBlock Text="Sin formato" 
                                FontSize="16"/>
-
                 </WrapPanel>
             </Button.Content>
         </Button>

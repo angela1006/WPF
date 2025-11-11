@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBlock Margin="10">
+			<Run Text="Texto rojo" Foreground="Red"/>
+			<LineBreak/>
+			<Run Text="Esto es ta escrito con naranja " Foreground="Orange"/>
+			<LineBreak/>
+			<Run Text="En esta frase" Foreground="Blue"/>
+			<Run Text="hay una palabra en" Foreground="Blue"/>
+			<Run Text="negrita" FontWeight="Bold" Foreground="Blue"/>			
+			<LineBreak/>
+			<Run Text="Esto es ta escrito con amarillo." Foreground="Yellow"/>
+			<LineBreak/>
+			<Run Text="Texto rosa" Foreground="Pink"/>
+		</TextBlock>
     </Grid>
 </Window>
