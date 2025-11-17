@@ -1,0 +1,27 @@
+﻿<Window x:Class="CheckBoxYButton_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxYButton_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="Gray">
+
+    <StackPanel>
+        <TextBox Margin="20"
+                 Name="texto"
+                 VerticalScrollBarVisibility="Auto"
+                 SelectionChanged="texto_SelectionChanged"
+                 Language="es-ES"
+                 TextWrapping="Wrap"
+                 FontSize="16"
+                 Text=""/>
+        <TextBox Name="textoseleccionado"
+                 IsReadOnly="True"
+                 Margin="20"
+                 FontSize="16"
+                 FontWeight="Bold"
+                 Text="Texto seleccionado"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="CheckBoxYButton_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxYButton_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <StackPanel Margin="10">
+        <TextBlock Text="Modulos que pienso aprobar"
+                   FontSize="14"
+                   FontWeight="Bold"
+                   Margin="0,0,0,5"/>
+        <CheckBox Name="cbTodos"
+                  Content="Todos los módulos"
+                  IsThreeState="True"
+                  FontWeight="SemiBold"
+                  Checked="todoChanged"
+                  Unchecked="todoChanged"
+                  Indeterminate="todoChanged"
+                  Margin="0,5,0,2"/>
+        <StackPanel Margin="18,0,0,0">
+            <CheckBox Name="cbM1" Content="Desarrollo de Interfaces" 
+                      Checked="indivChanged" Unchecked="indivChanged"/>
+            <CheckBox Name="cbM2" Content="Sistemas de Gestión Empresarial" 
+                      Checked="indivChanged" Unchecked="indivChanged"/>
+            <CheckBox Name="cbM3" Content="Acceso a Datos" 
+                      Checked="indivChanged" Unchecked="indivChanged"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
