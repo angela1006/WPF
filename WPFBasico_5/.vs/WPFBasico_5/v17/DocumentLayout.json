@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{91E7A080-45CC-4DDC-A493-B0E976900A00}|WPFBasico_5\\WPFBasico_5.csproj|solutionrelative:wpfbasico_5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91E7A080-45CC-4DDC-A493-B0E976900A00}|WPFBasico_5\\WPFBasico_5.csproj|c:\\users\\amormat1010\\documents\\wpf\\wpfbasico_5\\wpfbasico_5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91E7A080-45CC-4DDC-A493-B0E976900A00}|WPFBasico_5\\WPFBasico_5.csproj|C:\\Users\\amormat1010\\Documents\\WPF\\WPFBasico_5\\wpfbasico_5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91E7A080-45CC-4DDC-A493-B0E976900A00}|WPFBasico_5\\WPFBasico_5.csproj|solutionrelative:wpfbasico_5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "WPFBasico_5\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T09:44:01.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T09:44:01.939Z"
             },
             {
               "$type": "Bookmark",

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amormat1010\\Documents\\WPF\\RadioButtonYPasswordBox_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8DCD39-DE4D-4433-B06F-058F44CDC280}|RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5.csproj|c:\\users\\amormat1010\\documents\\wpf\\radiobuttonypasswordbox_5\\radiobuttonypasswordbox_5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8DCD39-DE4D-4433-B06F-058F44CDC280}|RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5.csproj|solutionrelative:radiobuttonypasswordbox_5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8DCD39-DE4D-4433-B06F-058F44CDC280}|RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5.csproj|c:\\users\\amormat1010\\documents\\wpf\\radiobuttonypasswordbox_5\\radiobuttonypasswordbox_5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8DCD39-DE4D-4433-B06F-058F44CDC280}|RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5.csproj|solutionrelative:radiobuttonypasswordbox_5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\amormat1010\\Documents\\WPF\\RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadioButtonYPasswordBox_5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\amormat1010\\Documents\\WPF\\RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5\\MainWindow.xaml",
+              "RelativeToolTip": "RadioButtonYPasswordBox_5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T09:10:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\amormat1010\\Documents\\WPF\\RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RadioButtonYPasswordBox_5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\amormat1010\\Documents\\WPF\\RadioButtonYPasswordBox_5\\RadioButtonYPasswordBox_5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RadioButtonYPasswordBox_5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:10:16.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
