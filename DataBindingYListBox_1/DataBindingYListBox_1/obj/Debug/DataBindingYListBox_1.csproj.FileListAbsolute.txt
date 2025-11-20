@@ -1,0 +1,15 @@
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\bin\Debug\DataBindingYListBox_1.exe.config
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\bin\Debug\DataBindingYListBox_1.exe
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\bin\Debug\DataBindingYListBox_1.pdb
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\MainWindow.g.cs
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\App.g.cs
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1_MarkupCompile.cache
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1_MarkupCompile.lref
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\MainWindow.baml
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.g.resources
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.Properties.Resources.resources
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.csproj.GenerateResource.cache
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.exe
+C:\Users\1010a\Documents\WPF\DataBindingYListBox_1\DataBindingYListBox_1\obj\Debug\DataBindingYListBox_1.pdb
