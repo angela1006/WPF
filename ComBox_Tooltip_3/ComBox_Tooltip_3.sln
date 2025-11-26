@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComBox_Tooltip_3", "ComBox_Tooltip_3\ComBox_Tooltip_3.csproj", "{422D4B01-1CF1-4D34-A030-BF17CB77A499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422D4B01-1CF1-4D34-A030-BF17CB77A499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422D4B01-1CF1-4D34-A030-BF17CB77A499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422D4B01-1CF1-4D34-A030-BF17CB77A499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422D4B01-1CF1-4D34-A030-BF17CB77A499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2488BE-82C6-485E-AA2B-656428ABD197}
+	EndGlobalSection
+EndGlobal

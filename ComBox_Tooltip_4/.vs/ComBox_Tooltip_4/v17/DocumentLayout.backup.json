@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1010a\\Documents\\WPF\\ComBox_Tooltip_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5BCDC5-982E-4552-92FB-E78E013F61D4}|ComBox_Tooltip_4\\ComBox_Tooltip_4.csproj|c:\\users\\1010a\\documents\\wpf\\combox_tooltip_4\\combox_tooltip_4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5BCDC5-982E-4552-92FB-E78E013F61D4}|ComBox_Tooltip_4\\ComBox_Tooltip_4.csproj|solutionrelative:combox_tooltip_4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5BCDC5-982E-4552-92FB-E78E013F61D4}|ComBox_Tooltip_4\\ComBox_Tooltip_4.csproj|c:\\users\\1010a\\documents\\wpf\\combox_tooltip_4\\combox_tooltip_4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A5BCDC5-982E-4552-92FB-E78E013F61D4}|ComBox_Tooltip_4\\ComBox_Tooltip_4.csproj|solutionrelative:combox_tooltip_4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1010a\\Documents\\WPF\\ComBox_Tooltip_4\\ComBox_Tooltip_4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ComBox_Tooltip_4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1010a\\Documents\\WPF\\ComBox_Tooltip_4\\ComBox_Tooltip_4\\MainWindow.xaml",
+              "RelativeToolTip": "ComBox_Tooltip_4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T17:35:28.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1010a\\Documents\\WPF\\ComBox_Tooltip_4\\ComBox_Tooltip_4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ComBox_Tooltip_4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1010a\\Documents\\WPF\\ComBox_Tooltip_4\\ComBox_Tooltip_4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ComBox_Tooltip_4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:35:28.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\bin\Debug\ComBox_Tooltip_4.exe.config
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\bin\Debug\ComBox_Tooltip_4.exe
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\bin\Debug\ComBox_Tooltip_4.pdb
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.csproj.AssemblyReference.cache
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\MainWindow.g.cs
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\App.g.cs
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4_MarkupCompile.cache
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4_MarkupCompile.lref
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\MainWindow.baml
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.g.resources
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.Properties.Resources.resources
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.csproj.GenerateResource.cache
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.exe
+C:\Users\1010a\Documents\WPF\ComBox_Tooltip_4\ComBox_Tooltip_4\obj\Debug\ComBox_Tooltip_4.pdb
